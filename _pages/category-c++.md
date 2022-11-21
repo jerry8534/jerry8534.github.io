@@ -2,6 +2,7 @@
 title: "C++"
 layout: archive
 permalink: /c++
+author_profile: true
 ---
 
 

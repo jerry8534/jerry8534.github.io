@@ -2,6 +2,7 @@
 title: "linux"
 layout: archive
 permalink: /linux
+author_profile: true
 ---
 
 
