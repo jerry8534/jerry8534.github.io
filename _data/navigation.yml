@@ -14,8 +14,8 @@ main:
 sidebar-category:
   - title: "categories"
     children:
-      - title: "blog"
-        url: "/blog"
+      - title: "Blog"
+        url: "/Blog"
       - title: "C++"
         url:  "/c++"
       - title: "linux"
