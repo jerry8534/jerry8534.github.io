@@ -3,6 +3,8 @@ title: "C++"
 layout: archive
 permalink: /c++
 author_profile: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 
