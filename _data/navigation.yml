@@ -22,3 +22,5 @@ sidebar-category:
         url:  "/c++"
       - title: "linux"
         url:  "/linux"
+      - title: "python"
+        url:  "/python"
