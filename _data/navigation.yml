@@ -17,7 +17,7 @@ sidebar-category:
       - title: "Blog"
         url: "/Blog"
       - title: "C"
-      url:  "/c"
+        url:  "/c"
       - title: "C++"
         url:  "/c++"
       - title: "linux"
